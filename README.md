@@ -15,14 +15,13 @@
 
 ## 🛠️ Tech Stack
 
-### 💡 Languages & Frameworks
 <p>
-  <img src="https://www.readmecodegen.com/api/social-icon?name=html5&size=28&animation=pulse" />
-  <img src="https://www.readmecodegen.com/api/social-icon?name=javascript&size=28&animation=pulse" />
-  <img src="https://www.readmecodegen.com/api/social-icon?name=python&size=28&animation=pulse" />
-  <img src="https://www.readmecodegen.com/api/social-icon?name=angular&size=28&animation=pulse" />
-  <img src="https://www.readmecodegen.com/api/social-icon?name=django&size=28&animation=pulse&color=%23000000" />
-  <img src="https://www.readmecodegen.com/api/social-icon?name=nodejs&size=28&animation=pulse" />
+  <img src="https://www.readmecodegen.com/api/social-icon?name=html5&size=28&animation=none" />
+  <img src="https://www.readmecodegen.com/api/social-icon?name=javascript&size=28&animation=none" />
+  <img src="https://www.readmecodegen.com/api/social-icon?name=python&size=28&animation=none" />
+  <img src="https://www.readmecodegen.com/api/social-icon?name=angular&size=28&animation=none" />
+  <img src="https://www.readmecodegen.com/api/social-icon?name=django&size=28&animation=none&color=%23000000" />
+  <img src="https://www.readmecodegen.com/api/social-icon?name=nodejs&size=28&animation=none" />
 </p>
 
 
@@ -48,9 +47,4 @@
 
 ---
 
-## 🌱 Currently Growing In
-- Advanced Angular & system design  
-- Backend optimization with Django  
-- Data structures & problem solving  
 
----
