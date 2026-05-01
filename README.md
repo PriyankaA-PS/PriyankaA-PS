@@ -26,15 +26,12 @@
 
 
 <p>
-  <img src="https://www.readmecodegen.com/api/social-icon?name=aws&size=28&animation=pulse" />
-  <img src="https://www.readmecodegen.com/api/social-icon?name=mysql&size=28&animation=pulse" />
-  <img src="https://www.readmecodegen.com/api/social-icon?name=postgresql&size=28&animation=pulse" />
+  <img src="https://www.readmecodegen.com/api/social-icon?name=aws&size=28&animation=none" />
+  <img src="https://www.readmecodegen.com/api/social-icon?name=mysql&size=28&animation=none" />
+  <img src="https://www.readmecodegen.com/api/social-icon?name=postgresql&size=28&animation=none" />
 </p>
 
 
-<p>
-  <img src="https://www.readmecodegen.com/api/social-icon?name=npm&size=28&animation=pulse" />
-</p>
 
 ---
 
