@@ -6,12 +6,6 @@
 
 ---
 
-## 🔗 Connect with me
-<a href="https://www.linkedin.com/in/pspriyanka" target="_blank">
-  <img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&size=28&animation=pulse" />
-</a>
-
----
 
 ## 🛠️ Tech Stack
 
